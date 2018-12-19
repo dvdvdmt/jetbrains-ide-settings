@@ -70,7 +70,4 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Disk/Programming/Web" />
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COMPACT_REFERENCES_VIEW" value="false" />
-  </component>
 </application>
