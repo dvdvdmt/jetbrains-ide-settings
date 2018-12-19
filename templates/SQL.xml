@@ -1,0 +1,7 @@
+<templateSet group="SQL">
+  <template name="selw" value="select * from $schema$.$table$ $alias$ where $alias$.$END$;" description="select specific rows from a table" toReformat="true" toShortenFQNames="false">
+    <variable name="schema" expression="" defaultValue="&quot;billing&quot;" alwaysStopAt="true" />
+    <variable name="table" expression="" defaultValue="&quot;invoice&quot;" alwaysStopAt="true" />
+    <variable name="alias" expression="complete()" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+  </template>
+</templateSet>

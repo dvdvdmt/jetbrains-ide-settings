@@ -1,0 +1,27 @@
+<templateSet group="JavaScript">
+  <template name="forin" value="for (var $VAR$ in $ARRAY$) {&#10;  $END$&#10;}" description="Iterate (for..in)" toReformat="true" toShortenFQNames="true">
+    <variable name="ARRAY" expression="jsArrayVariable()" defaultValue="&quot;array &quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="func" value="function($PARAM$) {&#10;  $END$&#10;}" description="Inserts function expression" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cons" value="console.log($END$)" description="console.log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for (var $VAR$=0; $VAR$&lt;$ARRAY$.length; $VAR$++) {&#10;  $END$&#10;}" description="standard for cycle" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
+    <variable name="ARRAY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
