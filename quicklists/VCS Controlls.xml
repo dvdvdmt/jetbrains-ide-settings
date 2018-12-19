@@ -1,0 +1,16 @@
+<list display="VCS Controlls" description="Short cuts for VCS controlls">
+  <action id="CheckinProject" />
+  <action id="CheckinFiles" />
+  <action id="ChangesView.Revert" />
+  <action id="Git.Fetch" />
+  <action id="Vcs.UpdateProject" />
+  <action id="Vcs.Push" />
+  <action id="Git.Branches" />
+  <action id="LocalHistory.ShowHistory" />
+  <action id="Vcs.ShowTabbedFileHistory" />
+  <action id="Annotate" />
+  <action id="ChangesView.AddUnversioned" />
+  <action id="ChangesView.RemoveDeleted" />
+  <action id="Github.Open.In.Browser" />
+  <action id="uk.co.ben_gibson.git.link.UI.Action.Menu.MenuAction.Browser" />
+</list>

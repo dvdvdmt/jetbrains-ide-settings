@@ -1,0 +1,106 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="BuiltInServerOptions" builtInServerPort="63345" builtInServerAvailableExternally="true" allowUnsignedRequests="true" />
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/airbnb.json" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+    <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
+    <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/nodemon">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.9.0/bin/node">
+      <version-cache version="10.9.0" last-modified="1534341027000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.4.1/bin/node">
+      <version-cache version="10.4.1" last-modified="1528830245000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.1.0/bin/node">
+      <version-cache version="10.1.0" last-modified="1525831006000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.0.0/bin/node">
+      <version-cache version="10.0.0" last-modified="1524580722000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/9.7.1/bin/node">
+      <version-cache version="9.7.1" last-modified="1520337664000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="9.7.1" last-modified="1520501551000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.12.0/bin/node">
+      <version-cache version="8.12.0" last-modified="1536605058000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.11.4/bin/node">
+      <version-cache version="8.11.4" last-modified="1534343105000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.11.2/bin/node">
+      <version-cache version="8.11.2" last-modified="1526411243000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.4.0/bin/node">
+      <version-cache version="8.4.0" last-modified="1503999097000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.11.5/bin/node">
+      <version-cache version="6.11.5" last-modified="1508872101000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.5.0/bin/node">
+      <version-cache version="6.5.0" last-modified="1472225243000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.0.0/bin/node">
+      <version-cache version="5.0.0" last-modified="1446157829000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/4.2.1/bin/node">
+      <version-cache version="4.2.1" last-modified="1444786727000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/0.12.5/bin/node">
+      <version-cache version="0.12.5" last-modified="1435072917000" />
+    </local-interpreter>
+  </component>
+  <component name="SvgViewer.Settings">
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
