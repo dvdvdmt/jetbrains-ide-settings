@@ -62,9 +62,6 @@
   <action id="Console.TableResult.AddRow">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
-  <action id="Console.TableResult.ChooseExtractor">
-    <keyboard-shortcut first-keystroke="meta e" />
-  </action>
   <action id="Console.TableResult.CloneRow">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
   </action>
@@ -325,7 +322,9 @@
     <keyboard-shortcut first-keystroke="shift meta f8" />
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
-  <action id="ViewSource" />
+  <action id="ViewSource">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="WebDeployment.Configuration">
     <keyboard-shortcut first-keystroke="shift meta f12" />
   </action>
