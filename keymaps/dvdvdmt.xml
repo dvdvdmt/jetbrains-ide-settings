@@ -79,6 +79,12 @@
   <action id="Console.TableResult.Transpose">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift meta c" second-keystroke="a" />
+  </action>
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift meta c" second-keystroke="r" />
+  </action>
   <action id="DatabaseView.CopyAction">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
   </action>
