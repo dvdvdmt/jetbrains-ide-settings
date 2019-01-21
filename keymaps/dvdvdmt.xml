@@ -258,6 +258,7 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
     <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="Run" />
   <action id="RunToCursor">
@@ -287,6 +288,18 @@
     <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
   <action id="ShowProjectStructureSettings" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta f9" />
   </action>
