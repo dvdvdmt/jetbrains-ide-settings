@@ -237,9 +237,6 @@
     <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="f" />
   </action>
   <action id="Refresh" />
-  <action id="ReloadInBrowserAction">
-    <keyboard-shortcut first-keystroke="shift meta r" second-keystroke="r" />
-  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -247,7 +244,9 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Replace" />
-  <action id="ReplaceInPath" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift meta r" second-keystroke="r" />
+  </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="shift meta r" second-keystroke="s" />
   </action>
