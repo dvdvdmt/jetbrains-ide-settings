@@ -1,0 +1,19 @@
+<application>
+  <component name="AppleScriptSystemDictionaryRegistryComponent">
+    <applicationsInfo>
+      <dictionary-info applicationName="Standard Terminology">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2019.1/sdef/Standard_Terminology_generated.sdef" />
+      </dictionary-info>
+      <dictionary-info applicationName="Scripting Additions">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2019.1/sdef/Scripting_Additions_generated.sdef" />
+      </dictionary-info>
+    </applicationsInfo>
+    <notScriptableApplications>
+      <item value="KeyboardMaestro" />
+      <item value="KeyboardSetupAssistant" />
+      <item value="StandardAdditions" />
+      <item value="Digital Hub Scripting" />
+      <item value="Keyboard Maestro" />
+    </notScriptableApplications>
+  </component>
+</application>
