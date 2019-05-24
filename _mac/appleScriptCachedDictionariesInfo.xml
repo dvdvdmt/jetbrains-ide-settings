@@ -7,13 +7,18 @@
       <dictionary-info applicationName="Scripting Additions">
         <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2019.1/sdef/Scripting_Additions_generated.sdef" />
       </dictionary-info>
+      <dictionary-info applicationName="Keyboard Maestro">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2019.1/sdef/Keyboard_Maestro_generated.sdef" />
+      </dictionary-info>
+      <dictionary-info applicationName="Keyboard Maestro Engine">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2019.1/sdef/Keyboard_Maestro_Engine_generated.sdef" />
+      </dictionary-info>
     </applicationsInfo>
     <notScriptableApplications>
       <item value="KeyboardMaestro" />
       <item value="KeyboardSetupAssistant" />
       <item value="StandardAdditions" />
       <item value="Digital Hub Scripting" />
-      <item value="Keyboard Maestro" />
     </notScriptableApplications>
   </component>
 </application>
