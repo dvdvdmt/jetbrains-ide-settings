@@ -147,6 +147,11 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="g" />
   </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="GotoClass" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
