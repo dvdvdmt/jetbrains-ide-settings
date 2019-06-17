@@ -14,6 +14,6 @@
   <component name="LiveEditOptions" chromeAutoDelay="500" chromeUpdateJSOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
     <pattern pattern="\bfixme\b.*" />
-    <pattern pattern="\/(\/|\*\n*)[ ]*\btodo\b(.|\n)*(\*\/|)" />
+    <pattern pattern="\btodo\b(.|\n)*" />
   </component>
 </application>
