@@ -12,5 +12,5 @@
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.RemoveDeleted" />
   <action id="Github.Open.In.Browser" />
-  <action id="uk.co.ben_gibson.git.link.UI.Action.Menu.MenuAction.Browser" />
+  <action id="uk.co.ben_gibson.git.link.UI.Action.MenuAction" />
 </list>
