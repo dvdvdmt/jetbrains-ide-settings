@@ -3,8 +3,12 @@
     <account id="39b028d6-e79c-437d-a623-8dd9ec1a33a7" name="dvdvdmt">
       <server host="github.com" />
     </account>
+    <account id="b1f9fd79-cf21-49f8-9ac3-4e45c0ecb8d4" name="dvdvdmt.work@gmail.com">
+      <server host="github.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="PRIVATE_GIST" value="false" />
+    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
