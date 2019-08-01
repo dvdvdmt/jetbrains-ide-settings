@@ -233,6 +233,9 @@
   <action id="QuickList.VCS Controlls">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="c" />
+  </action>
   <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction">
