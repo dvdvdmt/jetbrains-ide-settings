@@ -233,6 +233,9 @@
   <action id="QuickList.VCS Controlls">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="QuickList.VCS Operations">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="c" />
   </action>
@@ -344,6 +347,9 @@
   </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="t" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="UsageView.ShowRecentFindUsages" />
