@@ -29,6 +29,11 @@
   <action id="ChangesView.RemoveChangeList">
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="ChangesView.ShelveSilently">
     <keyboard-shortcut first-keystroke="meta alt u" second-keystroke="s" />
   </action>
