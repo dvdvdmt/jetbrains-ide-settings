@@ -3,7 +3,7 @@
   <action id="CheckinFiles" />
   <action id="ChangesView.Revert" />
   <action id="Git.Fetch" />
-  <action id="Vcs.UpdateProject" />
+  <action id="Git.Pull" />
   <action id="Vcs.Push" />
   <action id="Git.Branches" />
   <action id="LocalHistory.ShowHistory" />
