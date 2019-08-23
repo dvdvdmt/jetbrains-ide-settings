@@ -12,6 +12,8 @@
       </dictionary-info>
     </applicationsInfo>
     <notScriptableApplications>
+      <item value="iBooks" />
+      <item value="System Events" />
       <item value="StandardAdditions" />
       <item value="Digital Hub Scripting" />
     </notScriptableApplications>
