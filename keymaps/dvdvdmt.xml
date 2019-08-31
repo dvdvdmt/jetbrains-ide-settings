@@ -396,5 +396,8 @@
   </action>
   <action id="openAssertEqualsDiff" />
   <action id="org.jetbrains.plugins.ruby.tasks.rake.actions.RakeTasksPopupAction" />
+  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
   <action id="tasks.open.in.browser" />
 </keymap>
