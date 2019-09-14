@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'popup-tab-switcher'" />
-    <option name="defaultScopeName" value="Project 'popup-tab-switcher'" />
-    <option name="SEARCH_SCOPE" value="Project 'popup-tab-switcher'" />
+    <option name="customScope" value="Project 'task-manager'" />
+    <option name="defaultScopeName" value="Project 'task-manager'" />
+    <option name="SEARCH_SCOPE" value="Project 'task-manager'" />
     <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
