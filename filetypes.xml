@@ -10,8 +10,8 @@
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern="jetbrains-toolbox-launcher" type="PLAIN_TEXT" />
       <mapping pattern=".css" type="Sass" />
-      <mapping ext="plist" type="XML" />
       <mapping ext="sdef" type="XML" />
+      <mapping ext="plist" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
