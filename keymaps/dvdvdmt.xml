@@ -252,6 +252,10 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="f" />
   </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta alt p" />
+    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="p" />
+  </action>
   <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" />
