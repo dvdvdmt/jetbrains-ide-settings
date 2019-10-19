@@ -38,4 +38,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="trx" value="{t('$NAMESPACE$.$END$')}" description="Add translation function to JSX" toReformat="false" toShortenFQNames="true">
+    <variable name="NAMESPACE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
