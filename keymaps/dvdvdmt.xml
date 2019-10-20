@@ -249,12 +249,11 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="f" />
-  </action>
+  <action id="ReformatCode" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift meta alt p" />
     <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="p" />
+    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="f" />
   </action>
   <action id="Refresh" />
   <action id="RenameElement">
@@ -368,6 +367,7 @@
   <action id="Uml.ShowDiff" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.ReformatCommitMessage" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
