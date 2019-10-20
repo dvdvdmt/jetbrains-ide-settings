@@ -191,7 +191,7 @@
   </action>
   <action id="Jdbc.RunQueryInConsole" />
   <action id="JumpToLastWindow" />
-  <action id="Macro.Prettier -&gt; ESLint Fix">
+  <action id="Macro.Prettier -&gt; ESLint + Stylelint Fix">
     <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="f" />
   </action>
   <action id="MoveLineDown">
