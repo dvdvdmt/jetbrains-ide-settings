@@ -186,9 +186,6 @@
   <action id="IntroduceActionsGroup">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
-  <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="l" />
-  </action>
   <action id="Jdbc.OpenConsole">
     <keyboard-shortcut first-keystroke="ctrl meta 3" />
   </action>
@@ -360,6 +357,9 @@
   </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="Tool_External Tools_Prettier -&gt; ESLint">
+    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="l" />
   </action>
   <action id="TsLintFileFixAction">
     <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="t" />
