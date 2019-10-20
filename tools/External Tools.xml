@@ -1,12 +1,12 @@
 <toolSet name="External Tools">
-  <tool name="Prettier -&gt; ESLint" description="Formats with prettier then fixes with ESLint" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="Prettier -&gt; ESLint" description="Formats with prettier then fixes with ESLint" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="./node_modules/.bin/prettier-eslint" />
       <option name="PARAMETERS" value="--write $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
     </exec>
   </tool>
-  <tool name="Check HTML Academy style guide" description="runs .editorconfig and style lint checks" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Check HTML Academy style guide" description="runs .editorconfig and style lint checks" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="npm run editorconfig &amp;&amp; npm run stylelint" />
       <option name="PARAMETERS" />
