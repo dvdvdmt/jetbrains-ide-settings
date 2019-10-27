@@ -192,7 +192,7 @@
   <action id="Jdbc.RunQueryInConsole" />
   <action id="JumpToLastWindow" />
   <action id="Macro.Prettier -&gt; ESLint + Stylelint Fix">
-    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="p" />
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl meta k" />
@@ -249,10 +249,8 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
   </action>
-  <action id="ReformatCode" />
-  <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="shift meta alt p" />
-    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="p" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="f" />
   </action>
   <action id="Refresh" />
   <action id="RenameElement">
