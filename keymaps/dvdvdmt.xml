@@ -199,6 +199,9 @@
   <action id="Macro.Prettier -&gt; ESLint + Stylelint Fix">
     <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="p" />
   </action>
+  <action id="Macro.Prettier -&gt; ESLint Fix">
+    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="e" />
+  </action>
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="MoveLineDown">
