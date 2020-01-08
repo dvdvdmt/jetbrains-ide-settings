@@ -98,6 +98,7 @@
   </action>
   <action id="DatabaseView.ShowDiff" />
   <action id="Debug" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.UpdatedFiles" />
   <action id="DuplicatesForm.SendToRight" />
@@ -255,7 +256,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="c" />
   </action>
   <action id="RecentChangedFiles" />
-  <action id="RecentFiles" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
   </action>
@@ -354,6 +357,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="meta alt y" />
