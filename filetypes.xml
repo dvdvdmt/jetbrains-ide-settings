@@ -3,11 +3,11 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="php" type="PHP" />
-      <mapping pattern="stylelint-fix" type="PLAIN_TEXT" />
-      <mapping pattern="99defaultrelease" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
+      <mapping pattern="99defaultrelease" type="PLAIN_TEXT" />
       <mapping pattern="jetbrains-toolbox-launcher" type="PLAIN_TEXT" />
+      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
+      <mapping pattern="stylelint-fix" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping pattern=".css" type="Sass" />
