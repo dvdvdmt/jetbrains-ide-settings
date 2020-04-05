@@ -24,5 +24,8 @@
   <component name="TodoConfiguration">
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="\btodo\b(.|\n)*" />
+    <filter name="FIXME">
+      <pattern index="0" />
+    </filter>
   </component>
 </application>
