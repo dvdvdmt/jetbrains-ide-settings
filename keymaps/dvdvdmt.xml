@@ -257,6 +257,7 @@
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
+  <action id="RecentLocations" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
   </action>
