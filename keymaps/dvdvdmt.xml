@@ -33,6 +33,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ChangesView.SetDefault">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="ChangesView.ShelveSilently">
     <keyboard-shortcut first-keystroke="meta alt s" second-keystroke="s" />
   </action>
