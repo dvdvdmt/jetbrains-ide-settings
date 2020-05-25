@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="crm-81-bulk-edit" />
     <option name="defaultScopeName" value="crm-81-bulk-edit" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="crm-81-bulk-edit" />
-    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
