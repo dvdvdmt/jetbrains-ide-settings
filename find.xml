@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="crm-81-bulk-edit" />
     <option name="defaultScopeName" value="crm-81-bulk-edit" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="crm-81-bulk-edit" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,5 +21,6 @@
     <mask>*.jsx</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
