@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern=".env-*" type=".env file" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="stylelint-fix" type="PLAIN_TEXT" />
       <mapping pattern="99defaultrelease" type="PLAIN_TEXT" />
