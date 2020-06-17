@@ -107,8 +107,7 @@
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-    <keyboard-shortcut first-keystroke="ctrl meta e" />
+    <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
