@@ -4,7 +4,7 @@
     <property name="created">2018-12-20T05:36:47</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2020-07-25T08:53:35</property>
+    <property name="modified">2020-07-25T10:14:21</property>
     <property name="originalScheme">Darcula copy2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -17,19 +17,39 @@
     <option name="CARET_ROW_COLOR" value="404040" />
   </colors>
   <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="40b380" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DEFAULT_CLASS_REFERENCE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_FUNCTION_DECLARATION" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="b3b359" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="6292c4" />
+        <option name="FOREGROUND" value="bc5cc2" />
         <option name="BACKGROUND" value="2b2b2b" />
+        <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="40b380" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -38,7 +58,7 @@
     <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="88c2a5" />
+        <option name="FOREGROUND" value="6292c4" />
         <option name="BACKGROUND" value="2b2b2b" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -24312,6 +24332,11 @@
     <option name="MARKDOWN_NAVIGATOR.UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_SMARTS">
       <value>
         <option name="BACKGROUND" value="2e4d34" />
+      </value>
+    </option>
+    <option name="TS.PRIMITIVE.TYPES">
+      <value>
+        <option name="FOREGROUND" value="40b380" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
