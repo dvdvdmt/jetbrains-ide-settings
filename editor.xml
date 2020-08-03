@@ -16,6 +16,22 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="TypeScript.ts.chain.hints" />
+        <option value="TypeScript.ts.enum.hints" />
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
+    <option name="disabledLanguages">
+      <set>
+        <option value="JavaScript" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
