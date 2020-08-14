@@ -4,6 +4,7 @@
     <option name="language2state">
       <map>
         <entry key="JavaScript" value="true" />
+        <entry key="TypeScript" value="true" />
       </map>
     </option>
   </component>
