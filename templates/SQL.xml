@@ -3,6 +3,5 @@
     <variable name="schema" expression="" defaultValue="&quot;billing&quot;" alwaysStopAt="true" />
     <variable name="table" expression="" defaultValue="&quot;invoice&quot;" alwaysStopAt="true" />
     <variable name="alias" expression="complete()" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
