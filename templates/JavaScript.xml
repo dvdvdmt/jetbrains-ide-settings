@@ -13,7 +13,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cons" value="console.log('$STRING_NAME$', $NAME$);" description="console.log" toReformat="false" toShortenFQNames="true">
+  <template name="cons" value="console.log('[$STRING_NAME$]', $NAME$);" description="console.log" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="STRING_NAME" expression="" defaultValue="NAME" alwaysStopAt="false" />
     <context>
