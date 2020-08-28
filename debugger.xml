@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="ALWAYS_SMART_STEP_INTO" value="false" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -110,9 +111,7 @@
     <data-views>
       <show-values-inline>false</show-values-inline>
     </data-views>
-    <general>
-      <option name="showDebuggerOnBreakpoint" value="false" />
-    </general>
+    <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
