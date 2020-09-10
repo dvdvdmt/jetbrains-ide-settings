@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="RTB-65200 Color fix" />
-    <option name="defaultScopeName" value="RTB-65200 Color fix" />
-    <option name="SEARCH_SCOPE" value="RTB-65200 Color fix" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
