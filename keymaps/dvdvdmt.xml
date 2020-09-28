@@ -184,6 +184,9 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift ctrl j" />
   </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="meta alt e" />
+  </action>
   <action id="GotoSymbol" />
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
