@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="RTB-67698 &quot;CardWidget modal view redesign. Move modal window from Angular to React&quot;" />
-    <option name="defaultScopeName" value="RTB-67698 &quot;CardWidget modal view redesign. Move modal window from Angular to React&quot;" />
-    <option name="SEARCH_SCOPE" value="RTB-67698 &quot;CardWidget modal view redesign. Move modal window from Angular to React&quot;" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
