@@ -9,5 +9,6 @@
     <entry key="tabs.alphabetical" value="true" />
     <entry key="completion.stats.show.ml.ranking.diff" value="true" />
     <entry key="project.tree.structure.show.url" value="false" />
+    <entry key="ide.images.show.chessboard" value="true" />
   </component>
 </application>
