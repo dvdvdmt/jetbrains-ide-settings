@@ -9,5 +9,8 @@
       <action id="Javascript.Linters.EsLint.Fix" />
       <action id="Tool_External Tools_Stylelint Fix" />
     </macro>
+    <macro name="&lt;noname&gt;">
+      <action id="ChangesView.UnshelveSilently" />
+    </macro>
   </component>
 </application>
