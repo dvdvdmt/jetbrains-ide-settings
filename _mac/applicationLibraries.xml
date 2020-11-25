@@ -15,12 +15,12 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.9 (tests) interpreter library">
+    <library name="Python 3.9 interpreter library">
       <CLASSES>
         <root url="file:///usr/local/Cellar/python@3.9/3.9.0_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
         <root url="file:///usr/local/Cellar/python@3.9/3.9.0_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
-        <root url="file://$USER_HOME$/work/miro/tests/venv/lib/python3.9/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/1174879928" />
+        <root url="file:///usr/local/lib/python3.9/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/-1199943124" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -32,8 +32,8 @@
       <SOURCES>
         <root url="file:///usr/local/Cellar/python@3.9/3.9.0_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
         <root url="file:///usr/local/Cellar/python@3.9/3.9.0_1/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
-        <root url="file://$USER_HOME$/work/miro/tests/venv/lib/python3.9/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/1174879928" />
+        <root url="file:///usr/local/lib/python3.9/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/-1199943124" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
