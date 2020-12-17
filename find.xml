@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -15,11 +14,14 @@
     <mask>*.vue</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
-    <mask>*.jsx</mask>
     <mask>*.php</mask>
-    <mask>*.tsx</mask>
     <mask>*.tsx,*.scss</mask>
     <mask>*.json</mask>
     <mask>*e2e.js</mask>
+    <mask>*test.ts</mask>
+    <mask>*.html</mask>
+    <mask>*.jsx</mask>
+    <mask>*.tsx</mask>
+    <mask>*.less</mask>
   </component>
 </application>

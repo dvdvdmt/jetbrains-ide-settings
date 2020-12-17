@@ -1,9 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="stylelint-fix" type="PLAIN_TEXT" />
       <mapping pattern="99defaultrelease" type="PLAIN_TEXT" />
@@ -16,8 +14,6 @@
       <mapping pattern=".css" type="Sass" />
       <mapping ext="plist" type="XML" />
       <mapping ext="sdef" type="XML" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
