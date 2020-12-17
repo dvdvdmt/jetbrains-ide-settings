@@ -134,6 +134,7 @@
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
+  <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>

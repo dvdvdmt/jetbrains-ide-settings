@@ -13,9 +13,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cons" value="console.log(`[$STRING_NAME$]`, $NAME$);" description="console.log" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <variable name="STRING_NAME" expression="" defaultValue="NAME" alwaysStopAt="false" />
+  <template name="cons" value="console.log(`[$VALUE_NAME$]`, $VALUE$);" description="console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="&quot;...arguments&quot;" alwaysStopAt="true" />
+    <variable name="VALUE_NAME" expression="jsMethodName()" defaultValue="VALUE" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
