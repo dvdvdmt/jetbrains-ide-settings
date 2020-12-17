@@ -1,7 +1,9 @@
 <application>
+  <component name="DebuggerSettings">
+    <option name="ALWAYS_SMART_STEP_INTO" value="false" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views>
-      <option name="showValuesInline" value="false" />
       <show-values-inline>false</show-values-inline>
     </data-views>
     <general>
