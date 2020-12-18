@@ -379,9 +379,6 @@
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
-  <action id="Tool_External Tools_Stylelint Fix">
-    <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="s" />
-  </action>
   <action id="TsLintFileFixAction">
     <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="t" />
   </action>
