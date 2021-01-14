@@ -326,6 +326,7 @@
   </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="shift meta 1" />
+    <keyboard-shortcut first-keystroke="shift meta exclamation_mark" />
   </action>
   <action id="ShowProjectStructureSettings" />
   <action id="SmartTypeCompletion" />
