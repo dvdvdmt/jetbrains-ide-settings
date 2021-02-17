@@ -13,9 +13,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cons" value="console.log(`[$VALUE_NAME$]`, $VALUE$);" description="console.log" toReformat="false" toShortenFQNames="true">
+  <template name="cons" value="console.log(`[$METHOD_NAME$ $VALUE_NAME$]`, $VALUE$);" description="console.log" toReformat="false" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="&quot;...arguments&quot;" alwaysStopAt="true" />
     <variable name="VALUE_NAME" expression="" defaultValue="VALUE" alwaysStopAt="false" />
+    <variable name="METHOD_NAME" expression="" defaultValue="jsMethodName()" alwaysStopAt="false" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
