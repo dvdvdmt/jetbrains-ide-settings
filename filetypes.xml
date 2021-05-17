@@ -12,6 +12,7 @@
       <mapping pattern="jetbrains-toolbox-launcher" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
+      <mapping ext="vsdx" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping pattern=".css" type="Sass" />
