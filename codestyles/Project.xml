@@ -24,6 +24,9 @@
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </ScssCodeStyleSettings>
+  <XML>
+    <option name="XML_TEXT_WRAP" value="0" />
+  </XML>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
