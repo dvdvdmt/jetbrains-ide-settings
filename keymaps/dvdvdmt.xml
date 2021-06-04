@@ -92,11 +92,14 @@
   </action>
   <action id="CopyPaths" />
   <action id="CopyReference" />
-  <action id="CopyReferencePopup">
+  <action id="CopyReferencePopupGroup">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="DatabaseView.CopyAction">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
   <action id="DatabaseView.ShowDiff" />
   <action id="Debug" />
