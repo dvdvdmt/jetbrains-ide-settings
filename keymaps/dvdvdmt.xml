@@ -145,6 +145,7 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
+  <action id="ExecuteInPyConsoleAction" />
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt add" />
   </action>
