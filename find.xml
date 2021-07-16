@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="RTB-84892 Replace context menu item def for alignment to prevent sending styles right to a server.  When text styles are changing we need to postpone updates on a server to prevent duplication of actions in history." />
     <option name="defaultScopeName" value="RTB-84892 Replace context menu item def for alignment to prevent sending styles right to a server.  When text styles are changing we need to postpone updates on a server to prevent duplication of actions in history." />
+    <option name="localRegularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="RTB-84892 Replace context menu item def for alignment to prevent sending styles right to a server.  When text styles are changing we need to postpone updates on a server to prevent duplication of actions in history." />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
