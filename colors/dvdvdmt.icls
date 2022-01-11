@@ -4,7 +4,7 @@
     <property name="created">2018-12-20T05:36:47</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2022-01-10T13:49:54</property>
+    <property name="modified">2021-03-21T11:14:23</property>
     <property name="originalScheme">Darcula copy2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -24342,12 +24342,6 @@
     <option name="TS.PRIMITIVE.TYPES">
       <value>
         <option name="FOREGROUND" value="40b380" />
-      </value>
-    </option>
-    <option name="TS.TYPE_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="40b380" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
