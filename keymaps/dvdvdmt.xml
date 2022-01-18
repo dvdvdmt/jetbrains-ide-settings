@@ -183,7 +183,6 @@
   </action>
   <action id="GotoFile" />
   <action id="GotoImplementation">
-    <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="meta alt e" />
   </action>
   <action id="GotoLine" />
