@@ -1,0 +1,19 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="this@userDefined" key=".this" provider="builtin.js" language-level="ES6" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="this.$EXPR$" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.ts">
+        <value>
+          <set>
+            <option value="com.intellij.lang.typescript.template.postfix.TypeScriptCastPostfixTemplate#.cast" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
+  </component>
+</application>
