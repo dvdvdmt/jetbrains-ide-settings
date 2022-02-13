@@ -6,69 +6,13 @@
   </template>
   <template name="action" value=":$SELECTION$;" description="Activity diagram. Action" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="ANY_OPENAPI_JSON_FILE" value="false" />
-      <option name="ANY_OPENAPI_YAML_FILE" value="false" />
-      <option name="CSS" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="Django" value="false" />
-      <option name="ECMAScript6" value="false" />
-      <option name="GENERAL_JSON_FILE" value="false" />
-      <option name="GENERAL_YAML_FILE" value="false" />
-      <option name="GROOVY" value="false" />
-      <option name="GSP" value="false" />
-      <option name="HAML" value="false" />
-      <option name="HTML" value="false" />
-      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JSON" value="false" />
-      <option name="JSP" value="false" />
-      <option name="KOTLIN" value="false" />
-      <option name="MAVEN" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="PROTO" value="false" />
-      <option name="PROTOTEXT" value="false" />
-      <option name="Python" value="false" />
-      <option name="REQUEST" value="false" />
-      <option name="SHELL_SCRIPT" value="false" />
-      <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="Vue" value="false" />
-      <option name="XML" value="false" />
+      <option name="PUML" value="true" />
     </context>
   </template>
   <template name="note" value="note&#10;$START$&#10;end note" description="Activity diagram. Note" toReformat="false" toShortenFQNames="true">
     <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="ANY_OPENAPI_JSON_FILE" value="false" />
-      <option name="ANY_OPENAPI_YAML_FILE" value="false" />
-      <option name="CSS" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="Django" value="false" />
-      <option name="ECMAScript6" value="false" />
-      <option name="GENERAL_JSON_FILE" value="false" />
-      <option name="GENERAL_YAML_FILE" value="false" />
-      <option name="GROOVY" value="false" />
-      <option name="GSP" value="false" />
-      <option name="HAML" value="false" />
-      <option name="HTML" value="false" />
-      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JSON" value="false" />
-      <option name="JSP" value="false" />
-      <option name="KOTLIN" value="false" />
-      <option name="MAVEN" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="PROTO" value="false" />
-      <option name="PROTOTEXT" value="false" />
-      <option name="Python" value="false" />
-      <option name="REQUEST" value="false" />
-      <option name="SHELL_SCRIPT" value="false" />
-      <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="Vue" value="false" />
-      <option name="XML" value="false" />
+      <option name="PUML" value="true" />
     </context>
   </template>
   <template name="while" value="while (data available?)&#10;  :read data;&#10;endwhile" description="Activity diagram. While loop" toReformat="false" toShortenFQNames="true">
