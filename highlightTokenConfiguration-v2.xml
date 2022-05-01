@@ -1,0 +1,25 @@
+<application>
+  <component name="HighlightTokenConfiguration">
+    <option name="highlightTokenMap">
+      <map>
+        <entry key="COMMENT">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="KEYWORD">
+          <value>
+            <list>
+              <option value="return" />
+            </list>
+          </value>
+        </entry>
+        <entry key="METHOD_KEYWORD">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
