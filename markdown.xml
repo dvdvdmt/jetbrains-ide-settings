@@ -1,7 +1,5 @@
 <application>
-  <component name="MarkdownApplicationSettings" HideErrors="true">
-    <MarkdownPreviewSettings />
-  </component>
+  <component name="MarkdownApplicationSettings" HideErrors="true" />
   <component name="MarkdownExtensionsSettings">
     <enabledExtensions>
       <entry key="PlantUMLLanguageExtension" value="true" />
