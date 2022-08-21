@@ -1,4 +1,7 @@
 <application>
+  <component name="LearnProjectState">
+    <option name="firstTimeOpenedWay" value="ONBOARDING_PROMOTER" />
+  </component>
   <component name="LessonStateBase">
     <option name="map">
       <map>
