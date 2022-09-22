@@ -85,7 +85,7 @@
     </context>
   </template>
   <template name="wait" value="await new Promise((resolve) =&gt; {setTimeout(resolve, $VALUE$)})" description="Starts promisified timeout" toReformat="false" toShortenFQNames="true">
-    <variable name="VALUE" expression="" defaultValue="2000" alwaysStopAt="true" />
+    <variable name="VALUE" expression="&quot;60000&quot;" defaultValue="60000" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
