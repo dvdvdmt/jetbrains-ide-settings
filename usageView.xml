@@ -5,9 +5,6 @@
   <component name="ShowUsagesSettings">
     <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
   </component>
-  <component name="UsageFilteringRuleState">
-    <option value="com.intellij.usages.impl.rules.ImportUsageFilteringRule" />
-  </component>
   <component name="UsageViewSettings">
     <option name="EXPORT_FILE_NAME" value="$USER_HOME$/Downloads/RTB-97463-investigation.txt" />
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
