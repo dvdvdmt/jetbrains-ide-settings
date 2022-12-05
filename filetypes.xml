@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern=".posthtmlrc" type="JSON" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="php" type="PHP" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
@@ -15,10 +15,10 @@
       <mapping pattern="stylelint-fix" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="vsdx" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="XML" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="sdef" type="XML" />
+      <mapping ext="plist" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="qrc" approved="true" type="XML" />

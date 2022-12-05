@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="com.intellij.aspectj" />
+        <option value="org.intellij.plugins.postcss" />
       </list>
     </option>
   </component>
