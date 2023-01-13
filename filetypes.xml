@@ -17,6 +17,7 @@
       <mapping ext="vsdx" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="sdef" type="XML" />
       <mapping ext="plist" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
