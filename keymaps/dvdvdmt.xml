@@ -437,6 +437,10 @@
   <action id="com.sburlyaev.cmd.plugin.actions.OpenInTerminal">
     <keyboard-shortcut first-keystroke="ctrl meta x" />
   </action>
+  <action id="copilot.requestCompletions">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="eu.osimowicz.plugins.intellij.CodeBlocksSorterAction">
     <keyboard-shortcut first-keystroke="ctrl meta o" second-keystroke="c" />
   </action>
