@@ -7,6 +7,7 @@
   </component>
   <component name="UsageFilteringRuleState">
     <option value="com.intellij.usages.impl.rules.ImportUsageFilteringRule" />
+    <option value="com.intellij.usages.impl.rules.ReadAccessFilteringRule" />
   </component>
   <component name="UsageViewSettings">
     <option name="EXPORT_FILE_NAME" value="$USER_HOME$/Downloads/RTB-97463-investigation.txt" />
