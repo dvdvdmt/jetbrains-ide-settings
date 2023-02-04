@@ -115,6 +115,7 @@
   </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+    <option name="CONVERT_HTML_TO_JSX" value="false" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="500" chromeUpdateJSOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
